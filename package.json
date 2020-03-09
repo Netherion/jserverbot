@@ -1,0 +1,21 @@
+{
+  "name": "jserverbot",
+  "version": "1.0.0",
+  "description": "Examen node",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Netherion/jserverbot.git"
+  },
+  "author": "Unai Quesada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Netherion/jserverbot/issues"
+  },
+  "homepage": "https://github.com/Netherion/jserverbot#readme"
+}
